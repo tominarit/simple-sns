@@ -1,7 +1,7 @@
-## Company Blog
+## Simple SNS
 
-This is a basic CRUD application using Python 3.7 and Django  framework.
-You can signup and create groups. Users will be able to join/leave groups and post dicussions in these groups.
+This is a basic CRUD application using Python 3.7 and Django framework.
+You can signup and create discussion groups. Users will be able to join/leave groups and post dicussions in these groups.
 
 ### Install
 
